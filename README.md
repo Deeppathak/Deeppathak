@@ -1,16 +1,121 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deep Pathak</h1>
+<h3 align="center">Passionate about Mechanical Engineering, CAD, FEA and Machine learning.</h3>
 
-<!--
-**Deeppathak/Deeppathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with MetalMaker 3D **as a business development intern**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **pathakdeep31@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deep-pathak-502918175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-pathak-502918175/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fusion_360_Logo.png" alt="Fusion 360" width="30" height="40"/>
+</a>
+  <a href="https://www.ptc.com/en/products/cad/creo" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" alt="Creo" width="70" height="40"/>
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/A/autodesk-inventor-logo-A297E40951-seeklogo.com.png" alt="Inventor" width="80" height="40"/>
+</a>
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sw_hrz_4cp_red_wht.tif/lossless-page1-640px-Sw_hrz_4cp_red_wht.tif.png" alt="SolidWorks" width="80" height="40"/>
+</a>
+<a href="https://www.ansys.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ANSYS_logo_without-blur.png/640px-ANSYS_logo_without-blur.png" alt="ANSYS" width="80" height="40"/>
+</a>
+
+  
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+
+## My Projects
+## Real Life FEA project
+
+My inspiration came from observing the wheel support of my home trolley, which frequently broke under load. Driven by curiosity, I conducted static and fatigue analyses to identify the primary causes of failure with different materials.
+<p align="center"><ins>  8” TROLLEY WHEEL BRACKET </ins></p>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1uVJQnhF4Bp64EyjBThUNTK4QjE-uazMQ" alt="Image 1" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1U4FD0MFbRSrA1ybwcUH8C4uxT8Y92Ou9" alt="Image 2" width="500"/>
+</div>
+In this analysis scenario, I conducted a static analysis on a bracket using magnesium alloy under specific loading conditions. Here's the detailed breakdown:
+
+### Case 1: Static Analysis for Magnesium Alloy
+
+#### Loading Conditions:
+1. **Force Applied:** 100 N on the top face of the bracket.
+2. **Constraints:** The two holes at the bottom of the bracket are constrained.
+
+#### Outputs:
+1. **Von-Mises Stress:** Evaluated to determine the material's yield criteria under the applied load.
+2. **Total Deformation:** Measured to assess the displacement of the bracket under the static load.
+
+#### Results for Magnesium Alloy:
+- **Total Deformation:** The component exhibited a deformation of 0.0076311 mm under the applied force of 100 N. This deformation is relatively high when compared to similar components made from cast iron.
+
+#### Comparative Analysis:
+- **Magnesium Alloy vs. Cast Iron:**
+  - Magnesium alloy showed greater deformation (0.0076311 mm) under the same loading conditions compared to cast iron. This indicates that while magnesium alloys are lighter and often chosen for weight-sensitive applications, they may deform more under load compared to cast iron, which is known for its high rigidity and strength.
+
+### Conclusion:
+The static analysis results highlight the material behavior differences between magnesium alloy and cast iron under the same loading conditions. These findings are crucial for selecting appropriate materials in engineering designs, especially where mechanical performance under static loads is a critical consideration.
+
+## Fatigue analysis with structural steel.
+<br>
+
+<p align="center"><ins>Case 2 Fatigue analysis </ins></p>
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1_yUMzjAR0PixhlL0wJLXgkbLcpMW1xmR" alt="Image 1" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Dj4KMxLCB9t4Ap9zD3fPbnjxSNKS9hGg" alt="Image 2" width="500"/>
+</div>
+
+### Case 4: Fatigue Analysis
+
+#### Load Conditions:
+1. **Static Structural Load Cases:**
+   - **Load Case:** 100 N applied as specified in the static analysis with improved design with an additional support leg.
+
+#### Material:
+- **Structural Steel** was used for the analysis.
+
+#### Outputs:
+1. **Fatigue Life:**
+   The predicted fatigue life of the component is **1,000,000 cycles** under the given loading conditions.
+   
+2. **Damage:**
+   - The component's **damage threshold** is identified at **1,000 Newtons (N)**.
+   
+3. **Safety Factor:**
+   - The calculated **factor of safety** is **15**.
+
+### Analysis Summary:
+- **Material:** Structural Steel
+- **Fatigue Life:** The component is expected to withstand 1,000,000 cycles before failure, indicating a robust design for the specified load conditions.
+- **Damage Threshold:** With a threshold of 1,000 N, the component can endure up to 10 times the load applied in Load Case 1 before sustaining damage.
+- **Safety Factor:** A safety factor of 15 suggests that the component's design is significantly over-engineered for the applied loads, ensuring a high level of reliability and safety.
+
+This structured fatigue analysis highlights the component's durability and the effectiveness of its design under cyclical loading conditions using structural steel.
+
+### Overall Conclusions:
+- **Material Performance:** Structural steel proves to be a suitable material for the component, offering a balance of flexibility and strength. Its higher deformation compared to cast iron is offset by its excellent fatigue life and high safety factor.
+- **Design Robustness:** The high safety factor and long fatigue life indicate that the design is robust and reliable, ensuring the component's performance over a wide range of operating conditions.
+- **Application Suitability:** Given these analyses, the component is well-suited for applications requiring both high static strength and long-term durability under cyclic loading. It provides assurance of safety and longevity, which are critical in many engineering applications.
+
+These conclusions demonstrate that the component, made from structural steel, meets the necessary performance criteria for both static and fatigue loading, making it a reliable and economic choice for its intended use because structural steel parts can be produced by punching operation.
+**The analysis revealed that the primary issue was the weak support legs, which bent and caused the wheel to break. This problem was resolved by reinforcing the support legs and redesigning the wheel**.
+<br>
+
+
+
+
+
+
+
+
+
+
+
+  
