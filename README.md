@@ -33,7 +33,7 @@
 
 ## My Projects
 ## Embedded Air Quality Measurement System
-This project was part of class assignment with [Prof. Dominik Aufderheide](https://scholar.google.co.uk/citations?user=Q0FhgwIAAAAJ&hl=en) in which i created a air quality measuement system with humidity and temperature sensor which was then displayed onto LCD matrix display.
+This project was part of class assignment with [Prof. Dominik Aufderheide](https://scholar.google.co.uk/citations?user=Q0FhgwIAAAAJ&hl=en). Project centers on designing an embedded system to monitor and report the Air Quality Index (AQI) using sensor data, including PM1.0, PM2.5, PM10.0, temperature, and humidity measurements. These sensors will play a pivotal role in assessing air quality conditions and their potential impact on health and the environment.
 ## Movie recommender system using Python(Pytorch)
 This project aims to create personalized product recommendations using PyTorch to enhance customer satisfaction and boost revenue in e-commerce. The workload includes conducting literature research, pre-processing data, implementing the recommender algorithm, and performing simulation and testing.
 [Project Link](https://github.com/Deeppathak/Recommender_system_-Movielens_dataset_with_Pytorch-)
