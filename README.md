@@ -108,12 +108,30 @@ These conclusions demonstrate that the component, made from structural steel, me
 **The analysis revealed that the primary issue was the weak support legs, which bent and caused the wheel to break. This problem was resolved by reinforcing the support legs and redesigning the wheel**.
 <br>
 
+## Personal CAD Projects
 
+<p align="center"><ins>1. Gear box design with reduction of 3:1</ins></p>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1HhQeKmgWEddzqbMl1YQBhyxH4QVvTw5_" alt="Image 1" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1vRdIKnUp_ALGJHaFIJydgvMnb7mScee9" alt="Image 2" width="500"/>
+</div>
+<br>
+<br>
 
-
-
-
-
+<p align="center"><ins>2. FEA of air cylinder assembly and design improvement of lever arm</ins></p>
+<div align="center">
+ <img src="https://drive.google.com/uc?export=view&id=1ha0KxdrVlI3egMHwiomRf5kaZnon99Yp" alt="Image 2" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1_Iwm0h3WX5Vvs6zdT1ZcK333IyWctTYB" alt="Image 2" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1gYtfli1R1_RmvUaMrjq7se5SrCwni-pL" alt="Image 2" width="500"/>
+  </div>
+<br>
+<br>
+<p align="center"><ins>3. More CAD  😊 </ins></p>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1dAYwYOZUV1TiaCkBez4kKtxtGS9V2mcn" alt="Image 2" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1NgfsTQm0ULDYmnjlrIYX_9VptcLR-g8e" alt="Image 2" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1p3qVwr8B4odF7LUSArf_pDUCUDN26XC8" alt="Image 2" width="500"/>
+</div>
 
 
 
