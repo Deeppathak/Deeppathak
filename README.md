@@ -32,6 +32,10 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
 ## My Projects
+
+## Movie recommender system using Python(Pytorch)
+This project aims to create personalized product recommendations using PyTorch to enhance customer satisfaction and boost revenue in e-commerce. The workload includes conducting literature research, pre-processing data, implementing the recommender algorithm, and performing simulation and testing.
+[Project Link](https://github.com/Deeppathak/Recommender_system_-Movielens_dataset_with_Pytorch-)
 ## Real Life FEA project
 
 My inspiration came from observing the wheel support of my home trolley, which frequently broke under load. Driven by curiosity, I conducted static and fatigue analyses to identify the primary causes of failure with different materials.
