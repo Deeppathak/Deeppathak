@@ -40,7 +40,7 @@ This project aims to create personalized product recommendations using PyTorch t
 [Project Link](https://github.com/Deeppathak/Recommender_system_-Movielens_dataset_with_Pytorch-)
 ## Real Life FEA project
 
-MMy inspiration came from observing the wheel support of my home trolley, which frequently got stuck to the frame and failed to move properly. Driven by curiosity, I conducted static and fatigue analyses to identify the primary causes of failure using different materials. I initially chose strong materials like cast iron to see if there were inherent design issues. The analysis revealed that the design had flaws, as the bracket was bending even with these materials. I then improved the design and selected structural steel, which performed well in both fatigue and static analysis.
+My inspiration came from observing the wheel support of my home trolley, which frequently got stuck to the frame and failed to move properly. Driven by curiosity, I conducted static and fatigue analyses to identify the primary causes of failure using different materials. I initially chose strong materials like cast iron to see if there were inherent design issues. The analysis revealed that the design had flaws, as the bracket was bending even with these materials. I then improved the design and selected structural steel, which performed well in both fatigue and static analysis.
 As a control, I also ran the analysis on magnesium alloy just to compare it to cast iron.
 <p align="center"><ins>  8” TROLLEY WHEEL BRACKET </ins></p>
 <div align="center">
