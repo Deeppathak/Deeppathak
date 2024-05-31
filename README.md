@@ -40,7 +40,8 @@ This project aims to create personalized product recommendations using PyTorch t
 [Project Link](https://github.com/Deeppathak/Recommender_system_-Movielens_dataset_with_Pytorch-)
 ## Real Life FEA project
 
-My inspiration came from observing the wheel support of my home trolley, which frequently broke under load. Driven by curiosity, I conducted static and fatigue analyses to identify the primary causes of failure with different materials.
+MMy inspiration came from observing the wheel support of my home trolley, which frequently got stuck to the frame and failed to move properly. Driven by curiosity, I conducted static and fatigue analyses to identify the primary causes of failure using different materials. I initially chose strong materials like cast iron to see if there were inherent design issues. The analysis revealed that the design had flaws, as the bracket was bending even with these materials. I then improved the design and selected structural steel, which performed well in both fatigue and static analysis.
+As a control, I also ran the analysis on magnesium alloy just to compare it to cast iron.
 <p align="center"><ins>  8” TROLLEY WHEEL BRACKET </ins></p>
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1uVJQnhF4Bp64EyjBThUNTK4QjE-uazMQ" alt="Image 1" width="500"/>
@@ -67,7 +68,7 @@ In this analysis scenario, I conducted a static analysis on a bracket using magn
 
 ### Conclusion:
 The static analysis results highlight the material behavior differences between magnesium alloy and cast iron under the same loading conditions. These findings are crucial for selecting appropriate materials in engineering designs, especially where mechanical performance under static loads is a critical consideration.
-
+**There was also deformation in the cast iron, indicating a minor design flaw. This slight deformation may have caused the wheel shaft to get stuck due to the minimal clearance between the shaft and the wheel.**
 ## Fatigue analysis with structural steel.
 <br>
 
@@ -83,7 +84,7 @@ The static analysis results highlight the material behavior differences between 
 #### Load Conditions:
 1. **Static Structural Load Cases:**
    - **Load Case:** 100 N applied as specified in the static analysis with improved design with an additional support leg.
-
+**Structural steel was chosen because the part can be manufactured using the forming process with sheet metal plates.**
 #### Material:
 - **Structural Steel** was used for the analysis.
 
@@ -110,8 +111,8 @@ This structured fatigue analysis highlights the component's durability and the e
 - **Design Robustness:** The high safety factor and long fatigue life indicate that the design is robust and reliable, ensuring the component's performance over a wide range of operating conditions.
 - **Application Suitability:** Given these analyses, the component is well-suited for applications requiring both high static strength and long-term durability under cyclic loading. It provides assurance of safety and longevity, which are critical in many engineering applications.
 
-These conclusions demonstrate that the component, made from structural steel, meets the necessary performance criteria for both static and fatigue loading, making it a reliable and economic choice for its intended use because structural steel parts can be produced by punching operation.
-**The analysis revealed that the primary issue was the weak support legs, which bent and caused the wheel to break. This problem was resolved by reinforcing the support legs and redesigning the wheel**.
+These conclusions demonstrate that the component, made from structural steel, meets the necessary performance criteria for both static and fatigue loading, making it a reliable and economical choice for its intended use because structural steel parts can be produced by forming operation.
+**The analysis revealed that the primary issue was the weak support legs, which bent and caused the wheel to jam. This problem was resolved by reinforcing the support legs and redesigning the wheel**.
 <br>
 
 ## Personal CAD Projects
