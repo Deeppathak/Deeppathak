@@ -18,6 +18,9 @@
   <a href="https://www.ptc.com/en/products/cad/creo" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/PTC_Creo_logo.svg" alt="Creo" width="70" height="40"/>
 </a>
+  <a href="" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/AutoCad_logo.svg/150px-AutoCad_logo.svg.png?20200125004320" alt="AutoCad" width="80" height="40"/>
+</a>
 <a href="" target="_blank" rel="noreferrer">
   <img src="https://seeklogo.com/images/A/autodesk-inventor-logo-A297E40951-seeklogo.com.png" alt="Inventor" width="80" height="40"/>
 </a>
