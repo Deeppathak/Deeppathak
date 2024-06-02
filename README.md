@@ -118,11 +118,12 @@ These conclusions demonstrate that the component, made from structural steel, me
 **The analysis revealed that the primary issue was the weak support legs, which bent and caused the wheel to jam. This problem was resolved by reinforcing the support legs and redesigning the wheel**.
 <br>
 ## Heat fins Ansys Steady state thermal analysis.
-<p align="center"><ins>1. Design optimization and material selection analysis of heat fins [Project Link](
-https://github.com/Deeppathak/FEA/commit/bacfd9d7c4ddbbb8e83c199a0144049905a73317)</ins></p>
+<p align="center"><ins>1. Design optimization and material selection analysis of heat fins.</ins></p>
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1HinrRDbOhk-m-Bmg1JneVGnR5Q5tuvLe" alt="Image 2" width="500"/>
 </div>
+Files can be found in FEA repo.
+
 ## Personal CAD Projects
 
 <p align="center"><ins>1. Gear box design with reduction of 3:1</ins></p>
