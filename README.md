@@ -117,12 +117,22 @@ This structured fatigue analysis highlights the component's durability and the e
 These conclusions demonstrate that the component, made from structural steel, meets the necessary performance criteria for both static and fatigue loading, making it a reliable and economical choice for its intended use because structural steel parts can be produced by forming operation.
 **The analysis revealed that the primary issue was the weak support legs, which bent and caused the wheel to jam. This problem was resolved by reinforcing the support legs and redesigning the wheel**.
 <br>
-## Heat fins Ansys Steady state thermal analysis.
+[## Heat fins Ansys Steady state thermal analysis.](https://github.com/Deeppathak/FEA)
 <p align="center"><ins>1. Design optimization and material selection analysis of heat fins.</ins></p>
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1HinrRDbOhk-m-Bmg1JneVGnR5Q5tuvLe" alt="Image 2" width="500"/>
 </div>
-Files can be found in FEA repo.
+
+[project link](https://github.com/Deeppathak/FEA)
+
+## CFD velocity and thrust force analysis of air propeller. (Ansys Fluent)
+<p align="center"><ins>1. Design optimization and material selection analysis of heat fins.</ins></p>
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1It-6w-g2_vm6wjUhd-qCOPQWIAdxP3Uf" alt="Image 2" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=1eHj5kd2Rsd-oK05ybQcjez9b7dPJa1UA" alt="Image 2" width="500"/>
+</div>
+
+[Report](https://github.com/Deeppathak/FEA/blob/main/ANSYS%20Report.pdf)
 
 ## Personal CAD Projects
 
