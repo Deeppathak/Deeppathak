@@ -127,7 +127,7 @@ These conclusions demonstrate that the component, made from structural steel, me
 [project link](https://github.com/Deeppathak/FEA)
 
 ## CFD velocity and thrust force analysis of air propeller. (Ansys Fluent)
-<p align="center"><ins>1. Design optimization and material selection analysis of heat fins.</ins></p>
+<p align="center"><ins>1. Design optimization based on thrust force analysis.</ins></p>
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1It-6w-g2_vm6wjUhd-qCOPQWIAdxP3Uf" alt="Image 2" width="500"/>
   <img src="https://drive.google.com/uc?export=view&id=1eHj5kd2Rsd-oK05ybQcjez9b7dPJa1UA" alt="Image 2" width="500"/>
