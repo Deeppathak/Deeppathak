@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deep Pathak</h1>
 <h3 align="center">Passionate about Mechanical Engineering, CAD, FEA and Machine learning.</h3>
 
-- 🔭 I’m currently working with MetalMaker 3D **as a business development intern**
+- 🔭 I’m currently working with Nuventura **as a Mechanical engineering intern**
 
 - 📫 How to reach me **pathakdeep31@gmail.com**
 
